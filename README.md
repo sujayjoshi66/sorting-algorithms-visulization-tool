@@ -13,4 +13,4 @@ The project consists of 4 algorithms.
 1) Run the file using Python.
 2) A window will pop up wherein a random array represented in the form of vertical bars along with several options will appear.
 3) On clicking on **New Array**, a completely new array of random integers gets generated and will be displayed on the screen.
-4) On clicking any of the other we can see the visualization of how the algorithms work !!!
+4) On clicking any of the other options, we can see the visualization of how the algorithms work !!!
