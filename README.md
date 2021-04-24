@@ -1,5 +1,5 @@
-# sorting-algorithms-visulization-tool
-The project started off out of my interest in algorithm analysis and design and I personally enjoy building tools which enables me or anybody else to understand the concepts clearly.
+# sorting-algorithms-visualization-tool
+The project started off out of my interest in algorithm analysis and design and I personally enjoy building tools which enable me or anybody else to understand the concepts clearly.
 
 **Libraries used**: Pygame and Tkinter
 The project consists of 4 algorithms.
